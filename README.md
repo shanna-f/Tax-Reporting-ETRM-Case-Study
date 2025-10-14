@@ -295,5 +295,6 @@ The project delivered:
 
 ## Part 12: Next Steps  
 Next, I will be looking at requirements and creating the Business Requirements Document.
+- [Check out Phase 2 here](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2)
 
 🔗 [Back to TOC](#-table-of-contents)  
